@@ -1,0 +1,6 @@
+2017.04.15 10:49:53 [M]  - Hai kak
+2017.04.15 10:49:19 [L] Administrator - iya ada apa sih
+2017.04.15 10:49:53 [M]  - Aku mau kasih hadiah buat kamu
+2017.04.15 10:49:19 [L] Administrator - hadiah apa
+2017.04.15 10:49:53 [M]  - permen
+

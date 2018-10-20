@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html><head><title>Item Barcode Label Print Result</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Pragma" content="no-cache" /><meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate, post-check=0, pre-check=0" /><meta http-equiv="Expires" content="Sat, 26 Jul 1997 05:00:00 GMT" /><style type="text/css">
+body { padding: 0; margin: 1cm; font-family: Arial, Verdana, Helvetica, 'Trebuchet MS'; font-size: 11pt; background: #fff; }
+.box{  width: 7cm;  height: 4cm;  border: solid 1px grey;}
+.header{  border-bottom: solid 1px grey;  text-align: center;  height: auto;  position: relative;  padding: 10px 0px 10px 0px;  top: -4cm;}
+.barcode{  width: 2.8cm;  height: 4cm;  text-align: center;}
+.callNum{  text-align: center;  position: relative;  top: -4cm;  padding-top: 10px;}
+.cc{  height: 2.8cm;  width:  4cm;  -ms-transform: rotate(90deg);  -webkit-transform: rotate(90deg);transform: rotate(90deg); position: absolute; margin-top: 0.6cm;margin-left: -0.6cm;}
+.cw{  width:  4cm;  height:  2.8cm;  -ms-transform: rotate(-90deg);  -webkit-transform: rotate(-90deg); transform: rotate(-90deg); position: absolute; margin-top: 0.6cm; margin-left: -0.6cm;}
+.r > .barcode{  margin-left: 4.2cm;  border-left: solid 1px grey;}
+.r > .header{  margin-left: 0px;  width: 4.2cm;}
+.r > .callNum{  margin-left: 0px;  width:  4.2cm;}
+.l > .barcode{  margin-left: 0px;  border-right: solid 1px grey;}
+.l > .header{  margin-left: 2.8cm;  width: 4.2cm;}
+.l > .callNum{  margin-left: 2.8cm;  width: 4.2cm;}
+.img_code{ width: 70%; height:75%; padding:-5px; border:0px }
+.title{  font-size:8pt;}
+</style>
+</head>
+<body>
+<a href="#" onclick="window.print()">Print Again</a>
+<table cellspacing="0.1" cellpadding="2">
+<tr>
+<td><div class="box r">
+<div class="barcode">
+<div class="cc">
+<div class="title">Dilan Dia Adalah Di ...</div>
+<img class="img_code" src="/akasia/images/barcodes/0018585.png"/></div>
+</div>
+<div class="header" style="background-color:#ff05c0;color: #000;text-transform: uppercase;font-weight: bold;z-index:-2;">PERPUSTAKAAN</br> SMP 3 BAE</div>
+<div class="callNum">
+813<br/><b>PID</b><br/>d<br/></div>
+</div>
+</td>
+</tr>
+</table>
+<script type="text/javascript">self.print();</script>
+</body></html>
