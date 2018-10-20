@@ -1,6 +1,6 @@
 <?php
 /**
- * OAI-PMH
+ * OAI-PMH oke
  *
  * Copyright (C) 2012  Arie Nugraha (dicarve@yahoo.com)
  *
