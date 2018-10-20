@@ -2,7 +2,7 @@ SENAYAN 3 Stable Branch
 SLiMS 5
 SLiMS 7
 SLiMS 8
-Changes Log
+Changes Logs
 
 Developers :
 Hendro Wicaksono (hendrowicaksono@yahoo.com, hendrowicaksono@gmail.com)
