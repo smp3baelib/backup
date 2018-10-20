@@ -1,0 +1,3 @@
+set PHP=C:\xampp\php\php.exe
+set DAEMON=C:\xampp\htdocs\cendana\admin\modules\sms_gateway\daemon.php
+%PHP% %DAEMON%

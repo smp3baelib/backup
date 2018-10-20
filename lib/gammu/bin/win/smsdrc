@@ -1,0 +1,18 @@
+[gammu]
+port = com33
+connection = at115200
+[smsd]
+service = mysql
+logfile = C:\xampp\htdocs\cendana\lib\gammu/bin/win/logsmsdrc
+debuglevel = 0
+phoneid = SLiMS_Gateway
+commtimeout = 30
+sendtimeout = 600
+send = yes
+receive = yes
+checksecurity = 0
+RunOnReceive = C:\xampp\htdocs\cendana\lib\gammu/bin/win/daemon.bat
+pc = localhost
+user = root
+password = 
+database = cdn

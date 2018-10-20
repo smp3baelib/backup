@@ -1,0 +1,72 @@
+These Windows services are started:
+
+   Acunetix WVS Scheduler v9
+   Apache2.2
+   Ati HotKey Poller
+   Automatic Updates
+   AVG WatchDog
+   AVGIDSAgent
+   Background Intelligent Transfer Service
+   Bluetooth Support Service
+   COM+ Event System
+   Computer Browser
+   Cryptographic Services
+   DCOM Server Process Launcher
+   DHCP Client
+   Distributed Link Tracking Client
+   DNS Client
+   EPSON V3 Service4(01)
+   EPSON V5 Service4(01)
+   Error Reporting Service
+   Event Log
+   Fast User Switching Compatibility
+   FileZilla Server FTP server
+   Firebird Guardian - DefaultInstance
+   Firebird Server - DefaultInstance
+   Help and Support
+   HID Input Service
+   HTTP SSL
+   IPSEC Services
+   Layanan Google Update (gupdate)
+   LG SCSI command service
+   LMIGuardianSvc
+   Logical Disk Manager
+   LogMeIn Hamachi Tunneling Engine
+   mysql
+   Nalpeiron Licensing Service
+   Network Connections
+   Network Location Awareness (NLA)
+   NitroPDFDriverCreatorReadSpool9
+   Plug and Play
+   Print Spooler
+   Protected Storage
+   Remote Access Auto Connection Manager
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   Remote Registry
+   Secondary Logon
+   Security Accounts Manager
+   Security Center
+   Server
+   Shell Hardware Detection
+   SSDP Discovery Service
+   System Event Notification
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Telephony
+   Terminal Services
+   Themes
+   UI Assistant Service
+   Universal Plug and Play Device Host
+   WebClient
+   Windows Audio
+   Windows Firewall/Internet Connection Sharing (ICS)
+   Windows Image Acquisition (WIA)
+   Windows Management Instrumentation
+   Windows Time
+   Windows User Mode Driver Framework
+   Wireless Zero Configuration
+   Workstation
+
+The command completed successfully.
+
